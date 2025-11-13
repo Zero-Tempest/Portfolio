@@ -579,7 +579,8 @@ button:focus {
 .tech-icons-text {
   display: flex;
   align-items: center;
-  margin-left: 10px;
+  justify-content: center;
+  margin: 0; /* removed left margin so labels are centered */
   color: white;
 }
 
