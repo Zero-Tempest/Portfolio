@@ -5,7 +5,7 @@ const personal = {
     "I build games that feel good to play and even better to remember. From code to concept, I’m all about designing experiences that make players smile, think, or maybe even rage a little, in a fun way.",
   profileImage: "house.png", // place your profile image in src/Assets/ and set the filename here (e.g. "profile.jpg")
   logoImage: null, // optional: put a logo file in src/Assets/ (e.g. "logo-berk.png") to replace the SB logo
-  resume: null, // place your resume in src/Assets/ and set the filename here (e.g. "resume.pdf")
+  resume: "Berk Yildirim - Resume.pdf", // place your resume in src/Assets/ and set the filename here (e.g. "resume.pdf")
   socials: {
     github: "https://github.com/Zero-Tempest",
     linkedin: "https://www.linkedin.com/in/berk-yildirim-98833a234",
